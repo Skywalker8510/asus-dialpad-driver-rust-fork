@@ -1,3 +1,6 @@
+#Work in progress. i need to first understand how this works so i can reimplement it in rust. also need time to work on this whuch is hard to come by.
+
+
 # Asus touchpad DialPad driver
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
