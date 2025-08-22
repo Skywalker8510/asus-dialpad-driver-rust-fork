@@ -1,4 +1,4 @@
-#Work in progress. i need to first understand how this works so i can reimplement it in rust. also need time to work on this whuch is hard to come by.
+# Work in progress. i need to first understand how this works so i can reimplement it in rust. also need time to work on this whuch is hard to come by.
 
 
 # Asus touchpad DialPad driver
